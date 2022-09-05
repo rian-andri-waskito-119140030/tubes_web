@@ -3,5 +3,5 @@
 # Kelompok
 1. Rian Andri Waskito </br>
 2. Samuel Jovial Pardede </br>
-</br>
-![image](https://user-images.githubusercontent.com/82927821/188343698-2948016c-3c68-4c63-927e-d9d34b91ad7c.png)
+![image](https://user-images.githubusercontent.com/82927821/188343772-8f3359aa-3d1f-4e2e-914f-96d0b513c711.png)
+
